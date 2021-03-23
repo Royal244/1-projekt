@@ -1,0 +1,4 @@
+0;Marian;pazdzioch
+1;halina;kiepska
+2;boczek;boczek
+3;Ferder;Kiepski

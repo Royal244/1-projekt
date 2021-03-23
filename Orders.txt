@@ -1,0 +1,8 @@
+0;3;Ferder;Kiepski;2
+0;3;Ferder;Kiepski;2
+0;3;Ferder;Kiepski;2
+1;2;boczek;boczek;7
+1;2;boczek;boczek;7
+2;0;Marian;pazdzioch;0
+2;0;Marian;pazdzioch;2
+2;0;Marian;pazdzioch;3

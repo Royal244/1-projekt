@@ -1,0 +1,4 @@
+Projekt wykonał: Daniel Siemieńczuk
+e-mail: siemienczukdaniel@gmail.com
+Temat: Sklep
+Java version: 1.8

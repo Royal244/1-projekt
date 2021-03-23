@@ -1,0 +1,8 @@
+0;1000.0;7.0;warzywo;pomidor
+2;100.0;25.0;nasiona;winorosla
+3;230.0;230.0;warzywo;9
+6;2.0;2.0;warzywo;ogur
+7;2.0;2.0;owoc;kkk
+8;0.5;2.4;owoc;gruszka
+9;2.2;1.1;owoc;banan
+10;5.5;0.25;nasiona;naisona pomidora
